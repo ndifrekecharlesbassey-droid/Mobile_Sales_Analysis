@@ -103,9 +103,11 @@ ORDER BY Total Revenue DESC;
 ### Power Bi Dashboard
 
 
-<img width="1108" height="656" alt="power bi dashbord" src="https://github.com/user-attachments/assets/7dc04406-9982-408d-bdf1-04aadd74bad7" />
+<img width="948" height="524" alt="Power Bi Dashboard" src="https://github.com/user-attachments/assets/7d2a83b8-2709-4158-97ab-ee822770b8af" />
 
-<img width="920" height="567" alt="power bi 3" src="https://github.com/user-attachments/assets/014fc7d4-945b-4a5f-b7df-230c6bd0a57b" />
+<img width="952" height="550" alt="PowerBi Profile" src="https://github.com/user-attachments/assets/84f88de0-743a-441a-9010-d60d219c418e" />
+
+<img width="927" height="538" alt="PowerBi Age Cat" src="https://github.com/user-attachments/assets/3323f02d-b85f-4e8a-87e3-c30e16e0ba26" />
 
 ## Findings
 

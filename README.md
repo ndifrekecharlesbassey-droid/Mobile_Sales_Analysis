@@ -112,9 +112,9 @@ ORDER BY Total Revenue DESC;
 ## Findings
 
 From the analysis of the Mobile Sales Dataset, key insights include:
-+ We have more Female Customer sale
-+ West Micheal is the highest sales location.
-+ figure has the highest sales.
++ Credit card and Female Customer had the highest sale range.
++ Figure was the highest mobile sales.
++ West Micheal was the highest sales location.
 
 ## Summary.
 This project explored mobile phone sales using SQL, Excel, and Power BI to uncover business insights. The workflow included:
